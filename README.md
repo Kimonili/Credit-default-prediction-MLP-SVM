@@ -1,6 +1,6 @@
 # Credit card client default prediction using Multilayer Perceptron and Support Vector Machine
 
-This is a comparative study about credit default prediction using Multilayer Perceptron and Support Vector Machine. It is a result of an individual project for the "Neural Computing" module of the MSc Data Science at City, University of London. 
+This is a comparative study about credit default prediction using Multilayer Perceptron and Support Vector Machine. It is a result of an individual project for the "Neural Computing" module of the MSc Data Science at City, University of London. The primary objective of this project is dealing with the extreme Class Imbalance Problem (80% non defaulter and 20% defaulters). Two balancing techniques are used, Adasyn and Borderline Smote. Additionaly it was tested whether feature selection using the RELIEF algorithm lead to better performance of the models.
 
 Inside the folder "Comparative study on Multilayer Perceptron and Support Vector Machine" you can find both the Matlab code for the implementation of the assesment and the report.
 
