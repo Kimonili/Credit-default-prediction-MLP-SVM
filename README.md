@@ -1,6 +1,6 @@
 # Credit card client default prediction using Multilayer Perceptron and Support Vector Machine
 
-This is a comparative study about credit default prediction using artificial neural network and machine learning model. It is a result of an individual project for the "Neural Computing" module of the MSc Data Science at City, University of London.
+This is a comparative study about credit default prediction using Multilayer Perceptron and Support Vector Machine. It is a result of an individual project for the "Neural Computing" module of the MSc Data Science at City, University of London. 
 
 Inside the folder "Comparative study on Multilayer Perceptron and Support Vector Machine" you can find both the Matlab code for the implementation of the assesment and the report.
 
